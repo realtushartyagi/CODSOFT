@@ -1,7 +1,4 @@
-@font-face {
-    src:url(fonts/OneDirection.ttf)format("truetype");
-    font-family: nos;
-}
+
 .paragraph{
     text-align: center;
     font-size: 30px;
